@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StopVintf</string>
+    <string name="xposed_description" >make system framework think vinty check passed</string>
+</resources>
